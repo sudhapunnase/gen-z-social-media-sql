@@ -1,0 +1,71 @@
+Gen-Z Social Media SQL Analysis
+
+## 📌 Project Overview
+
+This project analyzes Gen-Z social media user data using SQL to understand user behavior, preferences, and engagement patterns.
+
+The main goal of this project is to practice SQL queries and generate meaningful insights from social media data.
+
+## 🛠️ Tools & Technologies
+
+- SQL
+- MySQL
+- GitHub
+
+## 📂 Dataset
+
+The dataset contains information about Gen-Z social media users, including user demographics, social media usage, preferences, and engagement-related information.
+
+## 🔍 Key Analysis
+
+In this project, I used SQL to analyze:
+
+- Social media usage patterns
+- User preferences
+- User demographics
+- Engagement behavior
+- Popular social media platforms
+- Different user categories
+- Trends and patterns in the data
+
+## 💡 SQL Concepts Used
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+- CASE statements
+- Filtering and grouping
+- Data analysis using SQL queries
+
+## 📊 Key Insights
+
+The analysis helped identify patterns in Gen-Z social media usage and understand user preferences and engagement behavior.
+
+## 🎯 Project Objective
+
+This project demonstrates my ability to use SQL for data analysis, query databases, identify patterns, and generate useful business insights from data.
+
+## 👩‍💻 Author
+
+*Sudha Punnase*
+
+Aspiring Data Analyst
+
+
+
+
+
+
+
+
+
+
+
